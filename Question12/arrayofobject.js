@@ -103,8 +103,8 @@ const products = [
 
 products.forEach(element => {
     return {
-        Name : name,
-        Price : price
+      Name : products.name,
+     Price : products.price
     }
     
 });
