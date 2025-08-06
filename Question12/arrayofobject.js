@@ -101,3 +101,10 @@ const products = [
   }
 ];
 
+products.forEach(element => {
+    return {
+        Name : name,
+        Price : price
+    }
+    
+});
